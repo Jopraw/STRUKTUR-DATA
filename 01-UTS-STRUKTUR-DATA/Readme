@@ -1,1 +1,17 @@
+# Laporan Tugas Struktur Data
 
+## Identitas Mahasiswa
+- **Nama:** Jojo Prawinata Situmeang  
+- **NIM:** [3337240060] 
+- **Kelas:** [B]  
+
+## Tujuan Repository
+Repository ini dibuat untuk menyimpan dan mendokumentasikan tugas mata kuliah **Struktur Data**.  
+Setiap folder atau file di dalam repository ini berisi implementasi algoritma, struktur data, serta laporan yang berkaitan dengan materi yang diberikan selama perkuliahan.
+
+Checklist Sebelum Mengumpulkan
+- [ ✓ ] Semua kombinasi 5 database × 3 topik terisi
+- [ ✓ ] Total ada 30 paper unik
+- [ ✓ ] Dataset rapi, tanpa duplikasi dengan mahasiswa lain
+- [ ✓ ] Program bisa menjalankan linear & binary search
+- [ ✓ ] Laporan disusun dengan ringkas dan jelas
